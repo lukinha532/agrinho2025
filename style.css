@@ -2,11 +2,11 @@
 
 
 :root {
---primary-color: #026773;
+--primary-color: #3cd9d4;
 --secondary-color: #3CA6A6;
 --text-color: #024959;
---background-color: #F2E3D5;
---button-hover: #012E40;
+--background-color: hsl(128, 82%, 49%);
+--button-hover: #b1ae11;
 --font-body: "Chocolate Classical Sans", serif;
 --font-titulo: "Rakkas", serif;
 }
